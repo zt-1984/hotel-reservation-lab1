@@ -1,0 +1,8 @@
+*.zip
+*.tmp
+*.log
+__pycache__/
+.env
+.env.*
+Thumbs.db
+.DS_Store
